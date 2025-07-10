@@ -22,4 +22,5 @@
 
 ---
 
-Feel free to connect or explore my repositories!
+### 👀 Visitor Count
+![](https://komarev.com/ghpvc/?username=Ranjith118&color=blue)
