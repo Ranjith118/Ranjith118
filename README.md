@@ -16,6 +16,10 @@
 - I build projects that aim to solve real-world problems using modern technologies.
 - I enjoy developing practical applications that blend user-friendly design with intelligent functionality.
 
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/rranjith2004/)
+- [GitHub](https://github.com/Ranjith118)
+
 ---
 
-Feel free to connect with me or explore my repositories!
+Feel free to connect or explore my repositories!
